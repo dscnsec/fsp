@@ -7,6 +7,7 @@ DSC NSEC YouTube channel at - [https://youtube.com/dscnsec](https://youtube.com/
 
 To join in on the fun, 
 - Forum: [https://dscnsec.com](https://dscnsec.com)
+- Telegram: [t.me/dscnsec](t.me/dscnsec)
 - Slack: [https://tiny.cc/dscnsec-slack](https://tiny.cc/dscnsec-slack)
 
 ---------------------------------------
